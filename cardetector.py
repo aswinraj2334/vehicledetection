@@ -1,7 +1,8 @@
 # OpenCV Python program to detect cars in video frame
 # import libraries of python OpenCV
 import cv2
-
+ 
+	
 # capture frames from a video
 cap = cv2.VideoCapture('video.avi')
 
